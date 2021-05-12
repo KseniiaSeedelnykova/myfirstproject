@@ -1,2 +1,2 @@
 # myfirstproject
-My firdt project ever.
+My first project ever.
